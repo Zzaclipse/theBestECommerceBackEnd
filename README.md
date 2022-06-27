@@ -12,7 +12,7 @@
 
 ## Description
 
-This application will shows how an E-commerce business might use their back end to add products, categories of products and tags on their products. The application uses GET, POST, PUT, and DELETE routes combined with a databse to achieve this.
+This application will shows how an E-commerce business might use their back end to add products, categories of products and tags on their products. The application uses GET, POST, PUT, and DELETE routes combined with a database to achieve this.
 
 ## Installation
 
